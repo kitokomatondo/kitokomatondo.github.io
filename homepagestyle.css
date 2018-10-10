@@ -1,0 +1,63 @@
+.snhlogo {
+	height: 178px ;
+	width: 199,2px ;
+	transition: all 1s;
+}
+
+.insta, .snhlogo, .fb {
+	display: inline-block;
+	align-content: center;
+}
+
+.email {
+	height: 50px ;
+	width: 50px ;
+	transition: all 1s;
+}
+.email:hover {
+	transform: scale(1.1);
+}
+
+.fb {
+	height: 51px ;
+	width: 51px ;
+	transition: all 1s;
+}
+
+body {
+  	background-image: url("https://imageshack.com/a/img922/8506/VaYH6y.jpg") no-repeat ;
+  	background-size: cover;
+}
+  
+
+.notification {
+  background-color: rgba(228, 166, 108);
+  color: white;
+  text-decoration: none;
+  padding: 15px 26px;
+  position: relative;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+.clear {
+	
+}
+
+.fb:hover {
+	transform: scale(1.1);
+}
+
+.insta {
+	height: 60px ;
+	width: 60px ;
+	transition: all 1s;
+}
+
+.insta:hover {
+	transform: scale(1.1);
+}
+
+.snhlogo:hover {
+	transform: scale(1.1);
+}
